@@ -81,7 +81,7 @@ a number of fixed levels with an endgame. Try to introduce some
 randomness, though.
 
 ## Setup
-![montaj](DanceDanceRevolution.jpeg)
+<img src="DanceDanceRevolution.jpeg" width="200" height="300" />
 
 ## Video
-https://youtu.be/wEdHfNg2_LQ
+https://youtu.be/2y6MOiS230Q
